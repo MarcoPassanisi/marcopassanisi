@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Credentials:
-✅ Microsoft Certified: Cybersecurity Architect Expert (SC-100)
-✅ Microsoft Certified: Identity and Access Administrator Associate (SC-300)
-✅ Microsoft Certified: Security Operations Analyst Associate (SC-200)
-✅ Microsoft Certified: Azure Security Engineer Associate (AZ-500)
-✅ Microsoft 365 Certified: Security Administrator Associate (MS-500)
+# ✅ Credentials:
+* Microsoft Certified: Cybersecurity Architect Expert (SC-100)
+* Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+* Microsoft Certified: Security Operations Analyst Associate (SC-200)
+* Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+* Microsoft 365 Certified: Security Administrator Associate (MS-500)

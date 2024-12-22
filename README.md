@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I’m currently working in Protiviti as a Senior Security Consultant.
 
 # ✅ Credentials:
 * Microsoft Certified: Cybersecurity Architect Expert (SC-100)

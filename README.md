@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ciao, I'm Marco 👋
 
 <!--
 **MarcoPassanisi/marcopassanisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Credentials:
+✅ Microsoft Certified: Cybersecurity Architect Expert (SC-100)
+✅ Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+✅ Microsoft Certified: Security Operations Analyst Associate (SC-200)
+✅ Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+✅ Microsoft 365 Certified: Security Administrator Associate (MS-500)
